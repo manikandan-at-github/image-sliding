@@ -1,2 +1,2 @@
 # image-sliding
-Image sliding 
+Image sliding created by Manikandan.D
